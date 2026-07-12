@@ -1,0 +1,50 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,V_TAT,C_TAT,Canceled_Rides_by_Customer,Canceled_Rides_by_Driver,Incomplete_Rides,Incomplete_Rides_Reason,Booking_Value,Payment_Method,Ride_Distance,Driver_Ratings,Customer_Rating,Vehicle Images
+26-07-2024,14:00:00,CNR7153255142,Canceled by Driver,CID713523,Prime Sedan,Tumkur Road,RT Nagar,null,null,null,Personal & Car related issue,null,null,444,null,0,null,null,#NAME?
+25-07-2024,22:20:00,CNR2940424040,Success,CID225428,Bike,Magadi Road,Varthur,203,30,null,null,No,null,158,Cash,13,4.1,4,#NAME?
+30-07-2024,19:59:00,CNR2982357879,Success,CID270156,Prime SUV,Sahakar Nagar,Varthur,238,130,null,null,No,null,386,UPI,40,4.2,4.8,#NAME?
+22-07-2024,03:15:00,CNR2395710036,Canceled by Customer,CID581320,eBike,HSR Layout,Vijayanagar,null,null,Driver is not moving towards pickup location,null,null,null,384,null,0,null,null,#NAME?
+02-07-2024,09:02:00,CNR1797421769,Success,CID939555,Mini,Rajajinagar,Chamarajpet,252,80,null,null,No,null,822,Credit Card,45,4,3,#NAME?
+13-07-2024,04:42:00,CNR8787177882,Success,CID802429,Mini,Kadugodi,Vijayanagar,231,90,null,null,No,null,173,UPI,41,3.4,4.6,#NAME?
+23-07-2024,09:51:00,CNR3612067560,Success,CID476071,Bike,Tumkur Road,Whitefield,133,40,null,null,No,null,140,Cash,49,3.2,4.5,#NAME?
+11-07-2024,11:12:00,CNR5374902489,Canceled by Driver,CID735691,Prime Plus,Bannerghatta Road,Sarjapur Road,null,null,null,Personal & Car related issue,null,null,344,null,0,null,null,#NAME?
+01-07-2024,19:19:00,CNR5030602354,Driver Not Found,CID999840,Mini,Chamarajpet,Peenya,null,null,null,null,null,null,839,null,0,null,null,#NAME?
+18-07-2024,01:31:00,CNR6328453219,Canceled by Driver,CID907133,Auto,RT Nagar,Varthur,null,null,null,Personal & Car related issue,null,null,893,null,0,null,null,#NAME?
+29-07-2024,23:33:00,CNR4787583516,Success,CID923404,Prime Plus,Hosur Road,Jayanagar,35,55,null,null,No,null,164,Cash,46,4.5,3.4,#NAME?
+26-07-2024,04:03:00,CNR7943634301,Success,CID647026,Prime Plus,Kammanahalli,Rajajinagar,238,95,null,null,No,null,399,Cash,18,3.9,4.4,#NAME?
+27-07-2024,13:18:00,CNR4524472111,Success,CID540929,Auto,Cox Town,Yelahanka,126,35,null,null,No,null,330,UPI,8,3,4.8,#NAME?
+17-07-2024,18:55:00,CNR3914552212,Canceled by Driver,CID557845,Auto,Hosur Road,Banashankari,null,null,null,Personal & Car related issue,null,null,427,null,0,null,null,#NAME?
+16-07-2024,09:54:00,CNR8181602032,Success,CID167642,Bike,Indiranagar,MG Road,70,95,null,null,No,null,378,UPI,18,4.8,4.1,#NAME?
+02-07-2024,10:25:00,CNR8090918544,Success,CID640151,Bike,Magadi Road,HSR Layout,126,95,null,null,No,null,343,UPI,23,3.7,3.6,#NAME?
+02-07-2024,23:50:00,CNR3211335290,Driver Not Found,CID630354,Mini,Ramamurthy Nagar,BTM Layout,null,null,null,null,null,null,366,null,0,null,null,#NAME?
+05-07-2024,23:42:00,CNR3196156650,Success,CID243275,Bike,Electronic City,Langford Town,140,40,null,null,No,null,401,Cash,8,3.3,3.9,#NAME?
+09-07-2024,11:11:00,CNR9975925287,Success,CID162055,Prime SUV,Magadi Road,RT Nagar,42,30,null,null,No,null,343,UPI,17,3,3.8,#NAME?
+12-07-2024,14:44:00,CNR1591113431,Success,CID902781,eBike,Koramangala,Sarjapur Road,245,70,null,null,No,null,2014,Cash,33,4.2,4.9,#NAME?
+11-07-2024,20:42:00,CNR3650331573,Success,CID217093,eBike,Basavanagudi,Hulimavu,84,25,null,null,No,null,650,Cash,34,4.9,3.4,#NAME?
+08-07-2024,22:33:00,CNR6013805089,Success,CID817034,Prime Sedan,Padmanabhanagar,Jayanagar,168,65,null,null,No,null,231,Cash,2,3.2,3.7,#NAME?
+16-07-2024,10:17:00,CNR4306636052,Canceled by Driver,CID103842,Prime SUV,Mysore Road,Vijayanagar,null,null,null,Customer was coughing/sick,null,null,909,null,0,null,null,#NAME?
+03-07-2024,18:20:00,CNR9832070187,Success,CID655872,Bike,Koramangala,BTM Layout,231,145,null,null,No,null,189,Cash,6,4.9,3.3,#NAME?
+03-07-2024,21:17:00,CNR5620539253,Success,CID290480,Prime Plus,Mysore Road,Sahakar Nagar,56,105,null,null,No,null,311,Cash,28,4.3,3,#NAME?
+19-07-2024,21:18:00,CNR4443921904,Success,CID654618,Mini,Tumkur Road,Koramangala,231,50,null,null,No,null,286,UPI,44,4,3.3,#NAME?
+25-07-2024,03:44:00,CNR7194303296,Success,CID538245,Mini,Mysore Road,Hennur,175,50,null,null,No,null,141,UPI,35,4.7,3.1,#NAME?
+15-07-2024,17:11:00,CNR6494005067,Success,CID805360,Auto,Yelahanka,Malleshwaram,84,60,null,null,No,null,214,UPI,2,3.3,4.5,#NAME?
+30-07-2024,19:44:00,CNR6805579107,Success,CID810214,Prime SUV,Indiranagar,Indiranagar,35,145,null,null,No,null,2183,Cash,20,4,4.4,#NAME?
+21-07-2024,08:26:00,CNR6003663433,Canceled by Customer,CID350426,Prime Plus,Rajajinagar,Chamarajpet,null,null,Driver asked to cancel,null,null,null,604,null,0,null,null,#NAME?
+23-07-2024,07:04:00,CNR2998177390,Driver Not Found,CID946041,Auto,RT Nagar,Yelahanka,null,null,null,null,null,null,802,null,0,null,null,#NAME?
+27-07-2024,06:18:00,CNR7979458138,Success,CID978509,eBike,Frazer Town,Indiranagar,189,65,null,null,No,null,1095,Cash,38,4.8,4.7,#NAME?
+23-07-2024,10:17:00,CNR7286474506,Canceled by Customer,CID500806,eBike,Jayanagar,Richmond Town,null,null,Driver is not moving towards pickup location,null,null,null,120,null,0,null,null,#NAME?
+23-07-2024,12:56:00,CNR9820692957,Success,CID625327,Prime Sedan,Koramangala,Hosur Road,49,85,null,null,No,null,241,Cash,33,3.2,3.5,#NAME?
+08-07-2024,11:52:00,CNR4094067439,Success,CID896062,Prime Sedan,Majestic,Jayanagar,77,140,null,null,No,null,475,Cash,45,4.3,3.1,#NAME?
+14-07-2024,05:25:00,CNR7142279862,Success,CID378034,eBike,Yeshwanthpur,JP Nagar,210,45,null,null,No,null,461,UPI,49,4.5,3.1,#NAME?
+23-07-2024,09:33:00,CNR5488574120,Canceled by Driver,CID169284,Auto,Peenya,Hosur Road,null,null,null,Customer related issue,null,null,783,null,0,null,null,#NAME?
+03-07-2024,16:16:00,CNR8148468821,Canceled by Driver,CID347094,Prime Plus,Marathahalli,BTM Layout,null,null,null,Customer was coughing/sick,null,null,995,null,0,null,null,#NAME?
+03-07-2024,00:58:00,CNR5176704322,Success,CID296026,Prime Plus,KR Puram,Hennur,287,40,null,null,Yes,Customer Demand,1102,UPI,41,3.1,3.5,#NAME?
+24-07-2024,17:31:00,CNR9287248724,Canceled by Driver,CID959554,Prime SUV,Hosur Road,Yeshwanthpur,null,null,null,Customer related issue,null,null,170,null,0,null,null,#NAME?
+10-07-2024,21:56:00,CNR7547352327,Success,CID976231,Prime Plus,Hulimavu,Rajarajeshwari Nagar,210,105,null,null,No,null,444,UPI,6,3.8,4.9,#NAME?
+20-07-2024,15:30:00,CNR9660405769,Canceled by Driver,CID483311,eBike,Electronic City,Varthur,null,null,null,Customer related issue,null,null,1130,null,0,null,null,#NAME?
+11-07-2024,03:22:00,CNR4251304471,Success,CID888740,Prime SUV,Shivajinagar,Jayanagar,294,145,null,null,No,null,876,Cash,21,4.7,3.3,#NAME?
+06-07-2024,15:02:00,CNR1568684278,Success,CID709612,Prime Plus,Bannerghatta Road,Majestic,42,90,null,null,No,null,680,UPI,24,4.7,3.8,#NAME?
+05-07-2024,20:28:00,CNR2230045814,Success,CID961125,Prime SUV,Cox Town,Chamarajpet,266,65,null,null,No,null,425,Cash,11,3.5,4.6,#NAME?
+11-07-2024,11:28:00,CNR7871058089,Success,CID221021,Mini,Hennur,Kengeri,56,140,null,null,No,null,989,Cash,4,4.5,4.2,#NAME?
+16-07-2024,16:25:00,CNR5503358927,Driver Not Found,CID552049,Bike,Peenya,MG Road,null,null,null,null,null,null,594,null,0,null,null,#NAME?
+12-07-2024,18:02:00,CNR2708187615,Success,CID415325,Prime Plus,Devanahalli,Rajajinagar,294,95,null,null,No,null,443,Cash,5,3.4,3.1,#NAME?
+16-07-2024,22:35:00,CNR1625119636,Success,CID745270,eBike,Ramamurthy Nagar,Sahakar Nagar,35,95,null,null,No,null,721,Cash,19,3.8,4.7,#NAME?
