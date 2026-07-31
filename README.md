@@ -186,7 +186,7 @@ Through this project, I practiced:
 **Tejus Pandey**
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tejuspandey
-- 🐙 GitHub: https://github.com/tejus23
+- 🐙 GitHub: https://github.com/tejus2310
 
 ---
 
